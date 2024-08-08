@@ -537,7 +537,7 @@ sup, sub, a.footnote {
   vertical-align: baseline;
 }
 sub {
-  bottom: -0.25em;
+  bottom: -0.26em;
 }
 sup {
   top: -0.5em;
